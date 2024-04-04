@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>校徽.png</file>
+    <file>背景.jpg</file>
+  </qresource>
+</RCC>
